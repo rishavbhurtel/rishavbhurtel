@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 Some of the projects that i worked on:
 
-This one i really liked 👌🏼. I used Bert model for this sentiment analysis and used docker for the container.
+I really like 👌 this one. I used Bert model for this sentiment analysis and used docker for the container, and used Dash for front-end.
 <img src="https://github.com/rishavbhurtel/rishavbhurtel/blob/main/My_Bert_App_Demo_720p_30fps_H264_128kbit_AAC_.gif" />
