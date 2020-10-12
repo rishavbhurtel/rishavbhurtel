@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some of the projects that i worked on:
+
+<img src="https://github.com/rishavbhurtel/rishavbhurtel/blob/main/My_Bert_App_Demo_720p_30fps_H264_128kbit_AAC_.gif" />
