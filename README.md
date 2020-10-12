@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Image Captioning project for my masters.
 
 Some of the projects that i worked on:
 
+This one i really liked 👌🏼. I used Bert model for this sentiment analysis and used docker for the container.
 <img src="https://github.com/rishavbhurtel/rishavbhurtel/blob/main/My_Bert_App_Demo_720p_30fps_H264_128kbit_AAC_.gif" />
