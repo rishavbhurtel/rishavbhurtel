@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Image Captioning project for my masters.
+- 🔭 I’m currently pursuing my MBA in USA.
 
 Some of the recent projects that i worked on:
 
