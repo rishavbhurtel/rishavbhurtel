@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Hi, I’m Rishav Bhurtel, a skilled software engineer with expertise in Python, SQL, AWS, and data analysis. I am passionate about leveraging data to drive business insights and enhance customer experiences. With hands-on experience developing data-driven strategies and automating data pipelines, I enjoy working with cross-functional teams to deliver optimized solutions.
+🔭 Hi, I’m Rishav Bhurtel, a skilled software engineer with expertise in Python, SQL, AWS, and data analysis. I am passionate about leveraging data to drive business insights and enhance customer experiences. With hands-on experience developing data-driven strategies and automating data pipelines, I enjoy working with cross-functional teams to deliver optimized solutions.
 
 I bring a blend of technical expertise and business acumen from my Master of Technology in Data Science and my ongoing MBA studies, which help me approach challenges from both a technical and strategic perspective.
 
